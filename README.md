@@ -308,3 +308,5 @@ Bitwarden, CleanMyMac 5, Carbon Copy Cloner, Keka, Magnet, boringNotch, PDF Sque
 | Python packages | ~350 |
 | Homebrew formulae | ~130 |
 | Applications | ~110 |
+
+By [Ismaël Joffroy Chandoutis](https://ismaeljoffroychandoutis.com).
