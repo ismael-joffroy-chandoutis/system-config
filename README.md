@@ -1,7 +1,9 @@
+**English** · [Français](README.fr.md)
+
 # System Configuration — Filmmaker + AI Workflow
 
 > MacBook Air M3 — 16 GB RAM — 500 GB SSD — macOS 26.3 (Tahoe)
-> Last updated: 2026-03-24
+> Last updated: 2026-07-17
 
 A filmmaker and digital artist running Claude Code as the primary intelligence layer across multiple machines. This documents the full stack: hardware, software, AI agents, automation, and creative production tools.
 
